@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         Log.i("tag","aaa ");
         Log.i("tag","ff branch");
-
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
